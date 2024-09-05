@@ -1,0 +1,25 @@
+.order-details-product {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    
+}
+
+.order-details-product-img img {
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.order-details-product-data {
+    flex-grow: 1;
+}
+
+.order-details-product-actions {
+    min-width: 150px;
+}
+
+.order-details-product-quantity select {
+    width: 100%;
+}
